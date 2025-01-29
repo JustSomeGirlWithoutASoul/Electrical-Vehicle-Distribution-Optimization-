@@ -20,7 +20,5 @@ mentioned below still remain:
   • Environmental consideration: Excessive deployment of hardware can increase carbon footprint
   and material waste.
 
-The problem’s complexity makes it a valuable study in balancing environmental, economic, and opera-
-tional factors. This project tackles a real-world challenge with significant implications for sustainable transportation.
-By applying optimization techniques to Washington’s EV landscape, it offers practical solutions to inform
-infrastructure investment and policy decisions.
+The problem’s complexity makes it a valuable study in balancing environmental, economic, and operational factors. This project tackles a real-world challenge with significant implications for sustainable transportation.
+By applying optimization techniques to Washington’s EV landscape, it offers practical solutions to inform infrastructure investment and policy decisions.
