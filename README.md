@@ -13,10 +13,13 @@ Washington holds the second-highest EV market share in the U.S., with EVs compri
 vehicle registrations1. The state is on track to meet ambitious zero-emission vehicle targets, requiring
 68% of new cars to be pollution-free by 2030 and 100% by 20352. Despite this progress, critical challenges
 mentioned below still remain: 
+
   • Unknown efficiency in resource allocation: It is unclear if the current distribution of chargers
   is effectively meeting demand or minimizing underutilization.
+  
   • Potential inefficient location strategy: Poorly located charging stations may not serve high-
   demand areas or key routes, leading to inefficiencies.
+  
   • Environmental consideration: Excessive deployment of hardware can increase carbon footprint
   and material waste.
 
