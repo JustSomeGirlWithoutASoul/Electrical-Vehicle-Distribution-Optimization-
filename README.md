@@ -1,7 +1,7 @@
 The rapid adoption of electric vehicles (EVs) presents both opportunities and challenges for infrastruc-
 ture planning. This project focuses on optimizing the placement and number of EV chargers across
 Washington State, with the primary objective of maximize total charging capacity per hour, secondary
-objective of reducing environmental impact, and the tertiary objectives of minimizing cost.
+objective of minimizing environmental impact, and the tertiary objectives of minimizing cost.
 
 Project Goal
 The key focus of the project is on determining the optimal locations for EV charging stations and the
@@ -23,5 +23,4 @@ mentioned below still remain:
   • Environmental consideration: Excessive deployment of hardware can increase carbon footprint
   and material waste.
 
-The problem’s complexity makes it a valuable study in balancing environmental, economic, and operational factors. This project tackles a real-world challenge with significant implications for sustainable transportation.
-By applying optimization techniques to Washington’s EV landscape, it offers practical solutions to inform infrastructure investment and policy decisions.
+The problem’s complexity makes it a valuable study in balancing environmental, economic, and operational factors. Applying optimization techniques to Washington’s EV landscape offers practical solutions to inform infrastructure investment and policy decisions.
